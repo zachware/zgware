@@ -1,8 +1,10 @@
 ---
+ID: 36810
 post_title: Decisions, Discomfort and Confrontation
 author: Zach Ware
 post_excerpt: ""
 layout: post
+permalink: https://zgware.com/?p=36810
 published: false
 ---
 Your life experience is a sum of a million tiny decisions. Often it takes a long time for the impact of many decisions to show themselves.
